@@ -1,0 +1,346 @@
+{
+    "o1a_criteria": {
+      "awards": {
+        "name": "Awards",
+        "description": "Receipt of nationally or internationally recognized prizes or awards for excellence in the field of endeavor",
+        "detailed_description": "This criterion focuses on significant awards that recognize excellence in the applicant's field. Key aspects include the national or international recognition of the award, prestige and selectivity, relevance to the applicant's field, and recency of awards.",
+        "strong_examples": [
+          "National academy awards",
+          "Field-specific recognized honors",
+          "Prestigious fellowships",
+          "Grants awarded through competitive selection processes",
+          "Spots in prestigious accelerators (e.g., Y Combinator, 500 Startups)",
+          "Industry recognition (e.g., Forbes 30 Under 30, Inc. 5000)",
+          "Major funding from government institutions (NIH, NSF)"
+        ],
+        "weak_examples": [
+          "Internal company awards",
+          "Certificates of participation",
+          "Awards with limited recognition"
+        ],
+        "tips": [
+          "Focus on awards with significant recognition in your field",
+          "Provide documentation about the selection process and criteria",
+          "Include information about the award's prestige and competitive nature",
+          "Explain why the award is significant in your field"
+        ]
+      },
+      "membership": {
+        "name": "Membership",
+        "description": "Membership in associations that require outstanding achievements of their members",
+        "detailed_description": "This criterion focuses on selective memberships in professional associations that have high standards for admission. Key aspects include whether the association requires outstanding achievements for membership, selectivity and exclusivity of the association, professional recognition of the association, and membership level (fellow, senior member, etc.).",
+        "strong_examples": [
+          "Fellowship status in prestigious professional societies",
+          "Elected membership in national academies",
+          "Invitation-only professional groups with clear selection criteria based on achievement",
+          "Acceptance into selective accelerators (e.g., Y Combinator, 500 Startups)",
+          "Membership in invite-only entrepreneurship networks (e.g., YPO, EO)",
+          "High-level certifications (e.g., Google Cloud Certified Fellow, AWS Hero)",
+          "Serving on editorial boards of recognized journals"
+        ],
+        "weak_examples": [
+          "General membership in professional organizations",
+          "Memberships obtained through payment without achievement requirements",
+          "Student memberships"
+        ],
+        "tips": [
+          "Focus on associations with less than 5% acceptance rate",
+          "Provide documentation of the association's membership criteria",
+          "Include evidence of the exclusive nature of the membership",
+          "Explain the significance of the membership in your field"
+        ]
+      },
+      "press": {
+        "name": "Press",
+        "description": "Published material about the person in professional or major trade publications or major media",
+        "detailed_description": "This criterion focuses on media coverage about the applicant and their work. Key aspects include whether the material is about the applicant (not just quoting or citing them), prominence and recognition of the publication or media outlet, significance of the coverage (feature articles vs. brief mentions), and focus on the applicant's achievements or contributions.",
+        "strong_examples": [
+          "Feature articles in major newspapers, magazines, or trade publications",
+          "Television interviews about their expertise",
+          "Significant profiles in industry publications",
+          "Articles in TechCrunch, VentureBeat, or Forbes",
+          "Interviews on popular tech or business podcasts",
+          "Citations to scholarly publications or research contributions",
+          "Media coverage of patents or innovations"
+        ],
+        "weak_examples": [
+          "Press releases",
+          "Self-published material",
+          "Brief mentions in articles focused on other topics",
+          "Publications with limited circulation or recognition"
+        ],
+        "tips": [
+          "Focus on reputable, recognized publications in your field",
+          "Ensure the material is about you and your work, not just mentioning you",
+          "Include articles that showcase your achievements or contributions",
+          "Provide context about the publication's significance in your field"
+        ]
+      },
+      "judging": {
+        "name": "Judging",
+        "description": "Participation as a judge of the work of others in the same or an allied field",
+        "detailed_description": "This criterion focuses on instances where the applicant has been invited to evaluate or assess the work of others. Key aspects include formal judging or evaluation role, significance of the judging opportunity, relation to the applicant's field of expertise, and selection process for judges.",
+        "strong_examples": [
+          "Serving on grant review panels",
+          "Editorial board membership for respected journals",
+          "Jury membership for field-specific competitions",
+          "Conference program committee roles",
+          "Dissertation committee service",
+          "Peer review for scholarly journals",
+          "Judging hackathons or coding competitions",
+          "Reviewing grant proposals for tech innovation funds",
+          "Voting for awards in sports (e.g., Heisman, Coach of the Year)"
+        ],
+        "weak_examples": [
+          "Routine peer review activities",
+          "Informal feedback on colleagues' work",
+          "Internal company evaluation committees"
+        ],
+        "tips": [
+          "Focus on formal judging roles rather than casual feedback",
+          "Provide evidence of your selection as a judge",
+          "Explain why your expertise was valuable for the judging role",
+          "Include information about the prestige of the event or publication you judged for"
+        ]
+      },
+      "original_contribution": {
+        "name": "Original Contribution",
+        "description": "Original scientific, scholarly, or business-related contributions of major significance in the field",
+        "detailed_description": "This criterion focuses on significant original contributions that have had substantial impact in the field. Key aspects include originality and innovation of the contribution, evidence of major significance and impact, recognition of contribution by others in the field, and how the contribution has advanced the field.",
+        "strong_examples": [
+          "Patented innovations that have been widely adopted",
+          "Research that has changed practices in the field",
+          "Establishment of new methodologies",
+          "Business innovations that transformed industry practices",
+          "Discoveries that opened new areas of inquiry",
+          "Development of new algorithms or technologies with significant impact",
+          "Creation of popular open-source projects or libraries",
+          "Design of innovative product features or architectures",
+          "Novel approach to an established methodology"
+        ],
+        "weak_examples": [
+          "Routine work products",
+          "Contributions with limited adoption or impact",
+          "Work that represents incremental improvements rather than significant advances"
+        ],
+        "tips": [
+          "Focus on contributions that have been recognized for their significance",
+          "Provide evidence of the contribution's impact (e.g., adoption, citations, implementation)",
+          "Include testimonials from experts about the significance of your contribution",
+          "Explain how your contribution has advanced the field",
+          "Document patents or proprietary technology"
+        ]
+      },
+      "scholarly_articles": {
+        "name": "Scholarly Articles",
+        "description": "Authorship of scholarly articles in the field, in professional journals, or other major media",
+        "detailed_description": "This criterion focuses on the applicant's scholarly publications and their significance. Key aspects include reputation and selectivity of the publication venues, applicant's role in the publications (first author, corresponding author, etc.), impact of the publications (citations, influence on the field), and volume and consistency of publication record.",
+        "strong_examples": [
+          "Articles in high-impact peer-reviewed journals",
+          "Frequently cited papers",
+          "Publications in the most prestigious venues in the field",
+          "Scholarly books published by respected academic presses",
+          "Research published in conference proceedings like NIPS or ICML",
+          "Technical books or chapters for respected publishers",
+          "Articles in sports publications (e.g., The Athletic)"
+        ],
+        "weak_examples": [
+          "Publications in predatory journals",
+          "Self-published works",
+          "Publications with very limited readership or impact",
+          "Routine technical reports"
+        ],
+        "tips": [
+          "Focus on publications in reputable, selective journals or conferences",
+          "Highlight your role in the publication (e.g., first author, corresponding author)",
+          "Include information about the journal's impact factor or reputation",
+          "Provide evidence of the publication's influence (e.g., citations, implementations)",
+          "Maintain an active Google Scholar profile"
+        ]
+      },
+      "critical_employment": {
+        "name": "Critical Employment",
+        "description": "Employment in a critical or essential capacity for organizations with a distinguished reputation",
+        "detailed_description": "This criterion focuses on the applicant's role and responsibility within prestigious organizations. Key aspects include distinguished reputation of the organization, criticality and essentiality of the applicant's role, level of responsibility and authority, and selectivity in hiring for the position.",
+        "strong_examples": [
+          "Leadership positions at well-known companies",
+          "Research directorships",
+          "Positions requiring rare expertise",
+          "Roles where the applicant makes key decisions that impact organizational success",
+          "Founding and leading a venture-backed startup",
+          "Scaling a company to significant revenue or user milestones",
+          "Leading major product launches or system overhauls",
+          "Player or coach for a team with significant achievements"
+        ],
+        "weak_examples": [
+          "Routine positions at prestigious organizations",
+          "Roles with limited decision-making authority",
+          "Positions that don't require specialized expertise"
+        ],
+        "tips": [
+          "Focus on positions where you had significant responsibility or authority",
+          "Provide evidence of the organization's distinguished reputation",
+          "Explain why your role was critical to the organization's success",
+          "Include information about your achievements in the role",
+          "Document the selective nature of your position"
+        ]
+      },
+      "high_remuneration": {
+        "name": "High Remuneration",
+        "description": "Evidence of high salary or other substantial remuneration for services, relative to others in the field",
+        "detailed_description": "This criterion focuses on whether the applicant's compensation demonstrates their exceptional status in the field. Key aspects include salary or remuneration significantly higher than others in similar roles, evidence comparing the compensation to industry standards, additional forms of substantial compensation (equity, bonuses, etc.), and clear connection between high compensation and extraordinary ability.",
+        "strong_examples": [
+          "Salary significantly above industry averages with documentation",
+          "Special compensation packages designed to attract or retain the applicant",
+          "Compensation data showing top percentile earnings",
+          "Securing high company valuation as a founder",
+          "Significant equity stake in a company",
+          "Performance-based bonuses or stock options",
+          "Attracting substantial investment relative to industry"
+        ],
+        "weak_examples": [
+          "Salaries that merely reflect seniority",
+          "Cost-of-living differences",
+          "Standard compensation for the applicant's position and location without evidence of exceptionality"
+        ],
+        "tips": [
+          "Provide comparative data showing your compensation relative to others in your field",
+          "Include offer letters, contracts, or other documentation of your compensation",
+          "Explain why your high compensation reflects your extraordinary ability",
+          "Consider including non-salary forms of compensation (e.g., equity, bonuses)",
+          "Use industry salary surveys as benchmarks"
+        ]
+      }
+    },
+    "visa_requirements": {
+      "eligibility_threshold": "Applicant must meet at least 3 of the 8 criteria",
+      "exception": "If the applicant has received a major, internationally recognized award (e.g., Nobel Prize), they may qualify without meeting any other criteria",
+      "petition_requirements": [
+        "Form I-129 (Petition for Nonimmigrant Worker)",
+        "Evidence supporting qualification under at least 3 criteria",
+        "Contract or summary of oral agreement between petitioner and beneficiary",
+        "Consultation letter from a peer group or labor organization",
+        "Itinerary of events or activities with beginning and ending dates if applicable"
+      ],
+      "fees": {
+        "basic_filing_fee": "$1,055 ($530 if a small employer or nonprofit)",
+        "asylum_program_fee": "$600 ($300 if a small employer or nonprofit)",
+        "premium_processing": "$2,805 (optional, for 15-business-day processing)"
+      },
+      "visa_duration": {
+        "initial_period": "Up to 3 years",
+        "extensions": "In increments of up to 1 year, indefinitely",
+        "entry_period": "May be admitted 10 days before and stay 10 days after the validity period"
+      }
+    },
+    "application_process": {
+      "steps": [
+        "Gather evidence for at least 3 criteria",
+        "Obtain a job offer or contract from a U.S. employer or agent",
+        "Secure a consultation letter from a relevant peer group",
+        "File Form I-129 with supporting documentation",
+        "If outside the U.S., apply for visa at U.S. consulate after petition approval"
+      ],
+      "processing_times": {
+        "regular_processing": "2-4 months",
+        "premium_processing": "15 business days guaranteed"
+      },
+      "timing_tips": [
+        "File up to 6 months before intended start date",
+        "File at least 45 days before employment to avoid delays",
+        "Plan for potential delays in visa stamping at embassies",
+        "If already in the U.S., apply well before current status expiration"
+      ],
+      "common_challenges": [
+        "Insufficient evidence for criteria",
+        "Lack of recognition in the U.S.",
+        "Difficulty obtaining peer consultation",
+        "Issues with employer-employee relationship for founders",
+        "Technical issues with peer opinion/advisory letter"
+      ]
+    },
+    "professional_profiles": {
+      "entrepreneurs_founders": {
+        "strong_criteria": [
+          "Original Contribution",
+          "Press",
+          "Critical Employment",
+          "High Remuneration"
+        ],
+        "specific_examples": {
+          "awards": "Startup competition wins, accelerator acceptance",
+          "original_contribution": "Patents, innovative business models, disruptive products",
+          "critical_employment": "Founding and leading venture-backed startups",
+          "press": "Feature articles in TechCrunch, VentureBeat, or Forbes"
+        }
+      },
+      "tech_professionals": {
+        "strong_criteria": [
+          "Original Contribution",
+          "Scholarly Articles",
+          "Judging",
+          "Membership"
+        ],
+        "specific_examples": {
+          "original_contribution": "Development of algorithms, open-source projects",
+          "scholarly_articles": "Technical publications, whitepapers",
+          "judging": "Code reviews, hackathon judging",
+          "membership": "High-level certifications, invite-only tech communities"
+        }
+      },
+      "scientists_researchers": {
+        "strong_criteria": [
+          "Scholarly Articles",
+          "Original Contribution",
+          "Awards",
+          "Judging"
+        ],
+        "specific_examples": {
+          "scholarly_articles": "Peer-reviewed journal publications",
+          "awards": "Research grants, academic honors",
+          "judging": "Peer review for scholarly journals",
+          "original_contribution": "Novel methodologies, patents, research advancements"
+        }
+      },
+      "athletes_coaches": {
+        "strong_criteria": [
+          "Awards",
+          "Press",
+          "Critical Employment",
+          "High Remuneration"
+        ],
+        "specific_examples": {
+          "awards": "MVP, championship titles, Coach of the Year",
+          "press": "Sports media coverage",
+          "critical_employment": "Key positions on successful teams",
+          "judging": "Voting for awards in sports"
+        }
+      }
+    },
+    "dependents": {
+      "spouse_and_children": {
+        "visa_type": "O-3 nonimmigrant visa",
+        "eligibility": "Spouses and unmarried children under 21 years of age",
+        "work_authorization": "Not permitted to work in the United States",
+        "study_authorization": "May participate in full-time or part-time study"
+      },
+      "documentation_required": [
+        "Form I-539 for the first dependent",
+        "Form I-539A for each additional dependent",
+        "Copy of dependent's I-94 number and admission stamp (if in U.S.)",
+        "Copy of previous U.S. immigration documents (if applicable)",
+        "Copy of dependent's passport identification page",
+        "Copy of dependent's most recent U.S. visa stamp (if any)",
+        "Proof of dependent's relationship to O-1A applicant"
+      ]
+    },
+    "special_considerations": {
+      "changing_employers": {
+        "process": "New employer must file Form I-129 with USCIS",
+        "athletes_provision": "For professional athletes traded from one team to another, employment authorization continues with the new team for 30 days"
+      },
+      "material_changes": "If there are material changes to the terms and conditions of employment or eligibility, the employer or agent must file an amended Form I-129",
+      "termination_responsibility": "If employer terminates employment (except for voluntary resignation), they must pay for reasonable cost of return transportation to beneficiary's last place of residence before entering U.S."
+    }
+  }
+  
